@@ -1,0 +1,40 @@
+body {
+    color:floralwhite;
+    background:black;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 100px;
+}
+
+header{
+    color: deepskyblue;
+    font-size: 32px;
+    padding: 10px;
+    border-bottom: solid 2px rgb(6, 240, 18); 
+}
+
+.chamada {
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+background: rgb(42, 218, 11);
+}
+
+.chamada-texto{
+    margin-right: 3%;
+}
+
+h1{
+    font-size: 40px;
+    color: darkcyan;
+}
+
+li{
+    padding: 20px;
+    font-size: 15px;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom:  3px;
+}
+
